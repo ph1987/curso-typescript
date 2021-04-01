@@ -1,0 +1,7 @@
+1. sudo npm install -g typescript ts-node
+2. npm init -y
+3. npm install axios
+4. ts-node index.ts
+
+*opcional, para compilar: tsc index.ts e gerar o index.js, 
+depois rodar: node index.js (passo 4 faz isso numa tacada só).
